@@ -36,9 +36,9 @@ nano /etc/bind/named.conf.options
 // };  
  
  to   
- >forward {
- 8.8.8.8
- };
+ >forward {   
+ 8.8.8.8;   
+ };   
 
 بعد از ان 
 ‍‍
